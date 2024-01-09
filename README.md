@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-Some random texty text.
-More stuff
+Files for the Website
